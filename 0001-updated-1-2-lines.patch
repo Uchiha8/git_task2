@@ -1,0 +1,24 @@
+From 2c7304fbee32a4f8c76db12b464059a6b907a078 Mon Sep 17 00:00:00 2001
+From: Uchiha8 <mnajimov.unlimit@gmail.com>
+Date: Sat, 28 Oct 2023 14:14:51 +0500
+Subject: [PATCH] updated 1&2 lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index fa2da6e..0bbec48 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-line 1
+-line 2
++line 1 - modified step7
++line 2 - modified step7
+ line 3
+ line 4
+ line 5
+-- 
+2.38.0.windows.1
+
